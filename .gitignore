@@ -1,0 +1,5 @@
+wikisql/checkpoints*
+wikisql/data*
+multi-mention-rc/checkpoints*
+multi-mention-rc/data*
+*pyc
