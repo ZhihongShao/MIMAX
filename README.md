@@ -1,4 +1,4 @@
-# A Mutual Information Maximization Approach for Weakly Supervised Question Answering
+# A Mutual Information Maximization Approach for the Spurious Solution Problem in Weakly Supervised Question Answering
 
 ## Introduction
 
@@ -20,4 +20,4 @@ In this paper, to alleviate the spurious solution problem, we propose to explici
 
 ## Contact
 
-* For any question, please contact [Zhihong Shao](szh19@mails.tsinghua.edu.cn) or post Github issue.
+* For any question, please contact <szh19@mails.tsinghua.edu.cn> or post Github issue.
